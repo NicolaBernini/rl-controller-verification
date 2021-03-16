@@ -1,6 +1,15 @@
 Learning a Control for Quadcopter with Reinforcement Learning
 =============================================================
 
+Code associated to the paper 
+
+**A Few Lessons Learned in Reinforcement Learning for Quadcopter Attitude Control** 
+
+- [Nicola Bernini](https://nicolabernini.github.io/), [Mikhail Bessa](https://www.linkedin.com/in/mikha%C3%AFl-bessa-847102139/), [Rémi Delmas](https://www.linkedin.com/in/r%C3%A9mi-delmas-6909352a/), [Arthur Gold](https://www.linkedin.com/in/arthur-gold/), [Eric Goubault](https://www.linkedin.com/in/eric-goubault-31a188103/), [Romain Pennec](https://www.linkedin.com/in/romain-pennec-a2346366/), [Sylvie Putot](https://www.linkedin.com/in/sylvie-putot-04b48917/) and [François Sillion](https://www.linkedin.com/in/sillion/)
+
+- Published at [HSCC 2021](https://hscc.acm.org/2021/accepted-papers/)
+
+
 
 Development environment
 -----------------------
